@@ -3,7 +3,7 @@ useful way to embedded python with c++
 
 this is a simple example to show how to use python in c++.
 
-first, we need to install python3.5 and python3.5-dev.
+first, we need to install python3.10 and any Visual Studio build tools versoin (Note: edit the generator version in cmake with the version you have installed)
 
 then, we need to link the python library to the project in cmake.
 
